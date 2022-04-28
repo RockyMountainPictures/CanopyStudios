@@ -50,18 +50,21 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://canopystudios.net",
     "sitemapSwitcherAuto": "on",
-    "favicon": false,
-    "mbrsiteDomain": "pmtwfa1krv",
+    "favicon": "@PROJECT_PATH@/assets/images/logo.svg",
+    "mbrsiteDomain": "tt2qftiztv",
     "robotsSwitcher": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "lazyType": "nothing"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Canopy Studios",
+        "meta_descr": "A game company",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
